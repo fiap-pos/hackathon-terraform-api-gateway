@@ -1,1 +1,1 @@
-# infra-gateway-tech-challenge
+# hackathon-ponto-api-gateway
